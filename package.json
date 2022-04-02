@@ -1,0 +1,27 @@
+{
+  "name": "productdevexercises",
+  "version": "1.0.0",
+  "description": "> Welcome to the The Block Product developer exercise! This exercise is here to get you acquainted with a small sample of what we do and for us to get acquainted with your skills. It should take no more than two hours of your time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeBent/ProductDevExercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeBent/ProductDevExercises/issues"
+  },
+  "homepage": "https://github.com/JakeBent/ProductDevExercises#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongood": "^0.0.5",
+    "mongoose": "^6.2.9",
+    "morgan": "^1.10.0",
+    "swagger-inline": "^5.2.0"
+  }
+}

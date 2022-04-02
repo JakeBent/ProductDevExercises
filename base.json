@@ -1,0 +1,6 @@
+{
+  "swagger": "2.0",
+  "host": "local",
+  "basePath": "index.js",
+  "schemes": ["http"]
+}
